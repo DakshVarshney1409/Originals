@@ -1,0 +1,77 @@
+.wrapper{
+    height: 90vh;
+    background: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.logincontainer{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+    margin:15px;
+    padding:15px 35px;
+    background: white;
+    border: 1px dashed #072227;
+    border-radius: 5px;
+    transition:.5s;
+}
+.logincontainer:hover{
+    border:1px solid;
+}
+.loginform{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    margin:15px auto;
+    color:black;
+}
+.loginform input{
+    margin:10px auto;
+    padding:5px;
+    width:200px;
+    color:black;
+    border:1px solid #40D3DC;
+    border-radius: 5px;
+}
+.loginform button{
+    color:#40D3DC;
+    padding: 5px 15px;
+    margin:20px;
+    background: #072227;
+    border:none;
+    border-radius: 5px;
+    border:1px solid #072227;
+    transition: .2s;
+}
+.loginform button:hover{
+    color:#072227;
+    background: #40D3DC;
+}
+.buttons .logout{
+    display:none;
+}
+.active p{
+    color: #40D3DC;
+}
+@media only screen and (max-width:768px){
+    .logincontainer{
+        width:90%;
+    }
+    .loginform{
+        width:100%;
+    }
+    .loginform input{
+        width:90%;
+        height:6vh;
+        border-radius: 10px;
+        border:1px solid grey;
+    }
+    .loginform button{
+        padding:10px 15px;
+        font-size: 20px;
+    }
+}
