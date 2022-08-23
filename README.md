@@ -105,8 +105,8 @@ git push -u origin <your_branch_name>
 
 **15.** Voilà! You have made a PR to Originals. Wait for your submission to be accepted and your PR to be merged.
 
-<!-- ## License
-GNU General Public License v3.0 -->
+## License
+[GNU General Public License v3.0](LICENSE.md/)
 
 ## 🛠 Project Maintainers
 
@@ -120,8 +120,8 @@ GNU General Public License v3.0 -->
   </tbody>
 </table>
 
-<!-- ## 👩‍💻 Our Valuable Contributors
+ ## 👩‍💻 Our Contributors
 <a href="https://github.com/su1nta/Originals/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=su1nta/Originals" />
-</a> -->
+</a>
 
