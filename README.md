@@ -2,7 +2,7 @@
 
 <div align="center">
   <h4>
-    <a href="http://sukantacodes.in/Originals/">View Demo</a>
+    <a href="http://sukantacodes.in/Originals/" target="blank">View Demo</a>
   <span> · </span>
     <a href="https://github.com/su1nta/Originals/issues/new">Report Bug</a>
   <span> · </span>
